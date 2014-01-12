@@ -1,4 +1,4 @@
-package com.qosmiof2.script.node;
+package org.script.qosmiof2.nodes;
 
 import org.powerbot.script.methods.MethodContext;
 import org.powerbot.script.methods.MethodProvider;
@@ -14,3 +14,4 @@ public abstract class Node extends MethodProvider {
 
 
 }
+
